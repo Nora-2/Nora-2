@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬, crafting beautiful and high-performance mobile applications.</h3>
 
 <p align="center">
- - 🔭 I’m currently working on impressive thing
-- 🌱 I’m currently learning flutter
-- 💬 Ask me about help
   <a href="https://linkedin.com/in/nora-mohamed-486a4121a" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
