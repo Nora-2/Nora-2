@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="sayedmoataz" /> </p>
  
-## <p ><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/></p>  About me
+## <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/> &nbsp; About me
 - :school: Computer Science graduate
 - 💻 Currently enhancing my skills in `Flutter` by exploring new topics.
 - :student: I’m working as a `Flutter Developer`.
