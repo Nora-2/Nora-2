@@ -1,64 +1,99 @@
-<h1 align="center">Hi there, I'm Nora Mohamed 👋</h1>
-<h3 align="center">A passionate Flutter Developer from Egypt 🇪🇬, crafting beautiful and high-performance mobile applications.</h3>
+<img src="https://b4dcat404.github.io/images/two.gif" width="100%"/>
+
+<h1 align="center">Hi , I'm Nora Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://linkedin.com/in/nora-mohamed-486a4121a" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:nora81023@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Madimi+One&size=22&duration=3000&pause=1000&color=1A84F7&center=true&vCenter=true&random=true&width=435&lines=Flutter+Developer+;Computer+Science+Graduate+;Always+Learning+New+Things;Software+Engineer" alt="Typing SVG" /></a>
+</p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sayedmoataz&label=Profile%20views&color=0e75b6&style=flat" alt="sayedmoataz" /> </p>
+ 
+## <p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="50"/></p>  About me
+- :school: Computer Science graduate
+- 💻 Currently enhancing my skills in `Flutter` by exploring new topics.
+- :student: I’m working as a `Flutter Developer`.
+- 🛠️ Working on various freelancing projects and applying for <a href ="https://drive.google.com/file/d/1cHoex_B4B0ccHTNJkfsaicVpbo75GPXS/view?usp=sharing">`Junior Flutter Developer`</a> positions.
+- :nerd_face: Always `learning new things`.
+
+<br>
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  Connect with me
+<p align="center">
+	<a href="mailto:nora81023@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://wa.me/0201096105768"><img src="https://img.shields.io/badge/whatsapp-%2325D366.svg?style=plastic&logo=whatsapp&logoColor=white" alt="Whatsapp"/></a>
+	<a href="https://linkedin.com/in/nora-mohamed-486a4121a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://www.facebook.com/nora.abdelhalem.3"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
+
+</p>
+
+<br>
+
+## 🛠️ My Skills
+### 👉 Programming Languages
+<p align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original-wordmark.svg" title="Dart" alt="Dart" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="40" height="40"/> 
+</p>
+### 👉 Backend as a Service (BaaS)
+
+<p align="center">
+  <a href="https://firebase.google.com/" target="_blank"><img alt="Firebase" src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/></a>&nbsp;
+  <a href="https://supabase.com/" target="_blank"><img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👩‍💻 About Me
-
-I am a highly motivated Flutter Developer with over 2 years of experience building and deploying robust, user-friendly mobile applications for both iOS and Android. With a strong foundation in Computer Science from Kafr El-Sheikh University (GPA: 3.71) and significant freelance experience, I excel at solving complex problems and turning ideas into reality.
-
-- 🔭 I’m currently looking for new full-time opportunities as a Flutter Developer.
-- 🌱 I’m passionate about **Clean Architecture**, advanced **Flutter Animations**, and creating maintainable, high-quality software.
-- 👯 I’m open to collaborating on innovative and impactful open-source projects.
-- 💬 Ask me about anything related to **Flutter, Dart, State Management (Bloc, GetX), and Firebase**.
-
----
-
-### 🛠️ My Tech Stack
-
-My toolkit includes a variety of technologies to build and deliver amazing applications:
-
-| Mobile & Frameworks | State Management | Backend & Databases | Core Concepts & Languages |
-|---|---|---|---|
-| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) | ![Bloc](https://img.shields.io/badge/Bloc-28A1F7?style=for-the-badge&logo=bloc&logoColor=white) | ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white) | ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) |
-| ![Google Maps](https://img.shields.io/badge/Google%20Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white) | ![GetX](https://img.shields.io/badge/GetX-28A1F7?style=for-the-badge) | ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) | ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
-| | ![Cubit](https://img.shields.io/badge/Cubit-28A1F7?style=for-the-badge) | ![REST API](https://img.shields.io/badge/REST_API-000000?style=for-the-badge) | ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-black?style=for-the-badge) |
-
----
-
-### ✨ My Projects
-
-Here are some of the projects I've worked on. I'm proud of the solutions I've delivered, especially in freelance and academic settings.
-
-<!-- Icons for links -->
-[repo-icon]: https://img.shields.io/badge/Repo-333?style=for-the-badge&logo=github
-[demo-icon]: https://img.shields.io/badge/Demo-0A66C2?style=for-the-badge&logo=linkedin
-[apk-icon]: https://img.shields.io/badge/APK-3DDC84?style=for-the-badge&logo=android
-
-| Project | Description | Links |
-|---|---|---|
-| **Toxikon App** <br/> _(Graduation Project)_ | A scientific app to detect molecular mutagenicity & toxicity, featuring a chatbot and 2D modeling. | [![Repo][repo-icon]](https://github.com/Nora-2/tox) [![Demo][demo-icon]](https://www.linkedin.com/posts/nora-mohamed-486a4121a_graduation-project-innovation-activity-7210241744301391872-oBJm) |
-| **Inventory App** <br/> _(Freelance)_ | A complete inventory management system with CRUD, sales tracking, reporting, and data visualization. | [![Repo][repo-icon]](https://github.com/Nora-2/inventory) [![Demo][demo-icon]](https://www.linkedin.com/posts/nora-mohamed-486a4121a_im-excited-to-announce-my-last-project-activity-7286026902232862720-3nYA) [![APK][apk-icon]](https://drive.google.com/file/d/1eDGUdXTELSXhLiI8u-gj49vwaHUHPh8z/view) |
-| **Checker App** <br/> _(Freelance)_ | A product checker using barcode scanning, Excel data import/update, and localization (multi-language). | [![Repo][repo-icon]](https://github.com/Nora-2/checker) |
-| **QR Code App** <br/> _(Freelance)_ | A robust QR code scanner with SQLite integration for history, data filtering, and Excel export. | [![Repo][repo-icon]](https://github.com/Nora-2/qr) [![APK][apk-icon]](https://drive.google.com/file/d/18FvjP1LAxtNiTSzztwNF6UeiBT_xRLYu/view) |
-| **Deen App** | An interactive Islamic educational app for children with learning cards, quizzes, animations, and videos. | [![Demo][demo-icon]](https://www.linkedin.com/posts/nora-mohamed-486a4121a_flutter-edtech-islamiceducation-activity-7308659967740276737-mQrk) [![APK][apk-icon]](https://drive.google.com/file/d/1O-eF4y4h95qj3ePa4NUmonhkDQMb_lgR/view) |
-| **MiniMinds App** | An educational app for young learners featuring mini-games and interactive modules for various subjects. | [![Demo][demo-icon]](https://www.linkedin.com/posts/nora-mohamed-486a4121a_back-again-and-excited-to-announce-my-latest-activity-7264588864701259777-bbb_) [![APK][apk-icon]](https://drive.google.com/file/d/1BIR0pQQIWepy19jyLco6nAHISvikJ64H/view) |
-| **Hotel Booking App** | A hotel booking app with a focus on powerful search, user authentication, ratings, and profile management. | [![Repo][repo-icon]](https://github.com/Nora-2/hotel-booking) [![Demo][demo-icon]](https://www.linkedin.com/posts/nora-mohamed-486a4121a_happy-to-share-my-latest-app-ehgezly-using-activity-7113247235307372547-HAJ8) |
-
----
-
-### 📊 GitHub Stats & Activity
+### 👉 Tools & Platforms
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nora-2&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nora's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nora-2&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <a href="https://git-scm.com/" target="_blank"><img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>&nbsp;
+  <a href="https://github.com/" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>&nbsp;
+  <a href="https://stackoverflow.com/" target="_blank"><img alt="Stack Overflow" src="https://img.shields.io/badge/Stack%20Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"/></a>&nbsp;
+
 </p>
+
+### 👉 IDEs
+
+<p align="center">
+  <a href="https://code.visualstudio.com/" target="_blank"><img alt="VSCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>&nbsp;
+  <a href="https://developer.android.com/studio" target="_blank"><img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/></a>&nbsp;
+  <a href="https://developer.apple.com/xcode/" target="_blank"><img alt="XCode" src="https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white"/></a>&nbsp;
+</p>
+
+
+## 📊 Github Stats
+
+  <summary><b>💻 GitHub Profile Stats</b></summary>
+  <br/>
+  <p align="center">
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Nora's Github Stats" src="https://github-readme-stats.vercel.app/api?username=sayedmoataz&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sayedmoataz&langs_count=10&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Nora" height="192px"/>
+  <br/>
+  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
+  </p>
+  
+----
+
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nora-2&bg_color=000000&color=ffffff&line=42db24&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+## :trophy: Git profile Trophies
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Nora-2&layout=compact&theme=algolia" alt="Nora-2" /></a> </p>
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people from around the world, so if you want to be my friend, feel free to <a href="https://wa.me/0201096105768">reach out</a> and introduce yourself (don’t just say hi, tell me about yourself)</b> 😊 💜</em>
